@@ -7,7 +7,7 @@ I am mainly interested in mathematics and computers.
   - Deep Learning
     - CNN
     - tensorflow and keras
-    - project on Diabetic Retinopathy
+    <!-- - project on Diabetic Retinopathy -->
 
 - 🌱 **I’m currently learning/ will learn** :
 	- More about react and react-native
