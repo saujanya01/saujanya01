@@ -3,7 +3,7 @@
 I am *Saujanya Tiwari*.
 
 - 📫 **How to reach me** :
-	- <a href="https://saujanya01.github.io" target="__blank">https://saujanya01.github.io</a>
+	- <a href="https://saujanya01.github.io">https://saujanya01.github.io</a>
 	- <a href="mailto:saujanyatiwari455@gmail.com">Send email</a>
 	- <a href="https://www.linkedin.com/in/saujanya01/">Connect with me on Linkedin</a>
 
